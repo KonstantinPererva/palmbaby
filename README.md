@@ -1,3 +1,3 @@
 Заказ на адаптивную верстку 7-ми страниц.
 
-Использовал: HTML5/CSS3, Bootstrap 3, jQuery
+Применил: HTML5/CSS3, Bootstrap 3, jQuery
